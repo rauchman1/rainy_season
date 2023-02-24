@@ -10,3 +10,4 @@ A shortcoming of the approach this is its binary logic. An accumulated precipita
 
 Fo  example, for condition 1, accumulated precipitation amounts of less than 18 mm receives a membership value of 0, and above 25 mm a 1. In the range between 18 and 25 mm, normalized values between 0 and 1 are assigned by linear interpolation. Thus, the probabilities of being interpreted as ORS are increasing with precipitation rates larger than 18 mm. A similar membership function is applied to condition 2, which is supposed to exclude single rainfall events to be misinterpreted as ORS. It must be noted that the membership functions were optimized for the Volta Basin of West Africa. It is necessary to fit the parameters for the target region!
 
+In the script "example.py", an example for one time series is shown.
