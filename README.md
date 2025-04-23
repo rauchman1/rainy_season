@@ -1,7 +1,3 @@
-Absolutely! Here's an improved and more polished version of your project description — clear, professional, and more concise while retaining all the technical details. It’s ideal for GitHub or as part of a `README.md`:
-
----
-
 ### 🌧️ **Onset of the Rainy Season (ORS) in West Africa**
 
 This repository contains Python code for the **Fuzzy-ORS approach** developed in  
